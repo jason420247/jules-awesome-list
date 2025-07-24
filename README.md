@@ -51,6 +51,11 @@
 - `// Implement a data class for this dictionary structure...`
   <sub>Useful for Python projects moving towards more structured data handling with `dataclasses` or Pydantic.</sub>
 
+- `// Create a command-line interface (CLI) for this script...`
+  <sub>For making Python or Node.js scripts easily executable from the terminal.</sub>
+
+- `// Add a feature flag for this new functionality...`
+  <sub>For enabling or disabling features without deploying new code.</sub>
 
 
 ## Debugging
@@ -76,6 +81,12 @@
 - `// Add print statements to trace the execution flow of this Python script...`
   <sub>For debugging complex Python scripts or understanding unexpected behavior.</sub>
 
+- `// Set up a debugger for this application...`
+  <sub>For interactive debugging in VS Code, Chrome DevTools, or other IDEs.</sub>
+
+- `// Explain this cryptic error message...`
+  <sub>For deciphering complex or poorly documented error messages.</sub>
+
 
 ## Documentation
 
@@ -90,6 +101,12 @@
 
 - `// Generate Sphinx-style docstrings for this Python module/class/function...`
   <sub>Ideal for Python projects using Sphinx for documentation generation.</sub>
+
+- `// Create a diagram of the code architecture...`
+  <sub>For visualizing the structure of a complex system.</sub>
+
+- `// Write a tutorial for using this library...`
+  <sub>For helping new users get started with your project.</sub>
 
 
 
@@ -116,6 +133,11 @@
 - `// Write a Pytest fixture to mock this external API call...`
   <sub>For Python projects using Pytest and needing robust mocking for testing.</sub>
 
+- `// Set up code coverage reporting...`
+  <sub>For measuring the effectiveness of your tests.</sub>
+
+- `// Add a load test for this service...`
+  <sub>For ensuring your application can handle high traffic.</sub>
 
 
 ## Package Management
@@ -135,6 +157,11 @@
 - `// Set up Renovate or Dependabot for auto-updates`
   <sub>Best for active projects with CI/CD.</sub>
 
+- `// Analyze the bundle size of this application...`
+  <sub>For identifying and removing large dependencies in web applications.</sub>
+
+- `// Find and replace a deprecated library...`
+  <sub>For keeping your codebase up-to-date with the latest dependencies.</sub>
 
 
 ## AI-Native Tasks
@@ -160,6 +187,11 @@
 - `// Refactor this Python function to be more amenable to parallel processing (e.g., using multiprocessing or threading)...`
   <sub>For optimizing performance in computationally intensive Python applications.</sub>
 
+- `// Suggest a better name for this variable/function/class...`
+  <sub>For improving the readability and maintainability of your code.</sub>
+
+- `// Write a commit message for these changes...`
+  <sub>For creating clear and concise commit messages.</sub>
 
 
 ## Context
@@ -170,6 +202,11 @@
 - `// Summarize all changes in the last 7 days`
   <sub>Catching up after time off.</sub>
 
+- `// Who is the best person to review this code?`
+  <sub>For finding the right person to review your pull request.</sub>
+
+- `// What is the release schedule for this project?`
+  <sub>For understanding the release process and upcoming deadlines.</sub>
 
 
 ## Fun & Experimental
@@ -188,6 +225,13 @@
 
 - `// Turn this tool into a GitHub App`
   <sub>Reusable, platform-integrated tools.</sub>
+
+- `// Create a custom theme for my code editor...`
+  <sub>For personalizing your development environment.</sub>
+
+- `// Generate a playlist based on the mood of this codebase...`
+  <sub>For a fun and creative way to explore your code.</sub>
+
 
 ## Start from Scratch
 
