@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+tests/test_base64.py
+universal_base64/__init__.py
+universal_base64.egg-info/PKG-INFO
+universal_base64.egg-info/SOURCES.txt
+universal_base64.egg-info/dependency_links.txt
+universal_base64.egg-info/top_level.txt
