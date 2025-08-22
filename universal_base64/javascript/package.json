@@ -1,0 +1,14 @@
+{
+  "name": "universal-base64",
+  "version": "0.1.0",
+  "description": "A universal Base64 library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jules",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
