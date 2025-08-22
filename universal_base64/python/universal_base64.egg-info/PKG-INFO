@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: universal_base64
+Version: 0.1.0
+Summary: A universal Base64 library
+Home-page: https://github.com/example/universal_base64
+Author: Jules
+Author-email: jules@example.com
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: summary
+
+# Universal Base64 - Python
+
+This is the Python implementation of the Universal Base64 library.

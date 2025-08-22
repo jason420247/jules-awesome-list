@@ -1,0 +1,5 @@
+/app/universal_base64/csharp/obj/Debug/net8.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/app/universal_base64/csharp/obj/Debug/net8.0/csharp.AssemblyInfoInputs.cache
+/app/universal_base64/csharp/obj/Debug/net8.0/csharp.AssemblyInfo.cs
+/app/universal_base64/csharp/obj/Debug/net8.0/csharp.csproj.CoreCompileInputs.cache
+/app/universal_base64/csharp/obj/Debug/net8.0/csharp.sourcelink.json
